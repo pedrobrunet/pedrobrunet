@@ -30,6 +30,7 @@ Estou concentrado em dominar as seguintes tecnologias, com ênfase no desenvolvi
 ### Atividade no GitHub 📈
 
 [![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark)]()
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrobrunet&show_icons=true&theme=dark)
 
 
 ---
