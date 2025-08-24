@@ -29,7 +29,7 @@ Estou concentrado em dominar as seguintes tecnologias, com ênfase no desenvolvi
 
 ### Atividade no GitHub 📈
 
-![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile?username=pedrobrunet&theme=github_dark)
+[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark)]()
 [![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrunet&layout=compact&theme=dark)]()
 
 ---
