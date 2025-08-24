@@ -13,27 +13,24 @@ Minha experiência no Exército Brasileiro me ensinou o valor da disciplina e do
 Estou concentrado em dominar as seguintes tecnologias, com ênfase no desenvolvimento back-end e na construção de APIs:
 
 ✨ **Linguagens e Frameworks:**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-* **Java:** Foco especial no ecossistema **Spring Boot**, que me permite criar aplicações escaláveis de forma elegante.
-* **Python:** Minha base para scripts e automações, com potencial para desenvolvimento web e análise de dados.
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 🔗 **Ferramentas e Conceitos:**
 
-* **Git & GitHub:** Essenciais para controle de versão e colaboração em projetos.
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 * **APIs REST:** Entendimento de como projetar e construir interfaces de comunicação entre sistemas.
 * **Orientação a Objetos:** O pilar da minha lógica de programação.
 
 ---
 
-### Em Constante Evolução 📈
+### Atividade no GitHub 📈
 
-Acredito que ser um desenvolvedor é uma jornada de aprendizado contínuo. Estou sempre explorando novas tecnologias e lendo sobre as melhores práticas do mercado.
-
-* Estudando a fundo a documentação do Spring.
-* Praticando problemas de lógica e algoritmos em Java.
-* Contribuindo para pequenos projetos de código aberto.
+[![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark)]()
+[![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrunet&layout=compact&theme=dark)]()
 
 ---
 
@@ -41,11 +38,11 @@ Acredito que ser um desenvolvedor é uma jornada de aprendizado contínuo. Estou
 
 Estou em busca de um estágio onde possa aplicar meu potencial e crescer em um ambiente dinâmico. Vamos conectar!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jo%C3%A3o-pedro-brunet-323133346/])
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-brunet-323133346/)
 <br>
 <p>
   Você pode me contatar por e-mail: **joaopedrobrunet@hotmail.com**
 </p>
-![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark)
+
 ---
 _A cada novo projeto ou conceito aprendido, este README será atualizado._
