@@ -14,7 +14,7 @@ Estou concentrado em dominar as seguintes tecnologias, com ênfase no desenvolvi
 
 ✨ **Linguagens e Frameworks:**
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
