@@ -13,7 +13,9 @@ Minha experiência no Exército Brasileiro me ensinou o valor da disciplina e do
 Estou concentrado em dominar as seguintes tecnologias, com ênfase no desenvolvimento back-end e na construção de APIs:
 
 ✨ **Linguagens e Frameworks:**
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 * **Java:** Foco especial no ecossistema **Spring Boot**, que me permite criar aplicações escaláveis de forma elegante.
 * **Python:** Minha base para scripts e automações, com potencial para desenvolvimento web e análise de dados.
 
