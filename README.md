@@ -46,6 +46,6 @@ Estou em busca de um estágio onde possa aplicar meu potencial e crescer em um a
 <p>
   Você pode me contatar por e-mail: **joaopedrobrunet@hotmail.com**
 </p>
-
+![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark)
 ---
 _A cada novo projeto ou conceito aprendido, este README será atualizado._
