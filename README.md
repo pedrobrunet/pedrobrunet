@@ -14,7 +14,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,java,linux,py,spring" />
+    <img src="https://skillicons.dev/icons?i=git,java,linux,py,spring" />
   </a>
 </p>
 ---
