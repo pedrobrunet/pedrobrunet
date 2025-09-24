@@ -10,7 +10,7 @@
 
 ### Minhas Habilidades
 
-Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
+Aqui estão algumas das tecnologias e ferramentas com as quais eu estudo:
 
 <p align="center">
   <a href="https://skillicons.dev">
