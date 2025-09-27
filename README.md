@@ -4,7 +4,7 @@
 - 🚀  Estudante de Ciência da Computação (2º Período)
 - 💡 Apaixonado por lógica de programação e pela resolução de problemas complexos com código.
 - 🌐 Fluência em Inglês (Nível Intermediário).
-- 🔗 Conecte-se comigo: https://www.linkedin.com/in/jo%C3%A3o-pedro-brunet-323133346/
+- 🔗 Conecte-se comigo: https://www.linkedin.com/in/joaopedrobrunet/
 
 ---
 
