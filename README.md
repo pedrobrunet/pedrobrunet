@@ -23,4 +23,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu estudo:
 ### Estatísticas do meu GitHub
 
 ![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrunet&layout=compact&theme=dark)
