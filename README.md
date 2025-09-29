@@ -6,7 +6,7 @@
 - 🌐 Fluência em Inglês (Nível Intermediário).
 - 🔗 Conecte-se comigo: https://www.linkedin.com/in/joaopedrobrunet/
 
----
+-----------------------------------------------------------------------------------------------------
 
 ### Minhas Habilidades
 
@@ -17,7 +17,8 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu estudo:
     <img src="https://skillicons.dev/icons?i=git,java,linux,py,spring,flask" />
   </a>
 </p>
----
+-----------------------------------------------------------------------------------------------------
+
 
 ### Estatísticas do meu GitHub
 
