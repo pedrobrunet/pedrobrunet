@@ -1,10 +1,17 @@
-### Olá! Sou João Pedro Brunet 👋
+###👋
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
-- 👨‍💻 **Desenvolvedor focado em **Java** e **Python**.
-- 💡 Aplicando ativamente conceitos de **Orientação a Objetos (OO)** e **Estruturas de Dados** adquiridos na Ciência da Computação (2º Período).
-- 🎯 Buscando meu primeiro estágio ou projetos desafiadores para aplicar o stack **Java/Spring** em sistemas reais e escaláveis.
-- 🌐 Inglês Intermediário para documentação técnica.
-- 🔗 Conecte-se comigo: https://www.linkedin.com/in/joaopedrobrunet/
+- **Foco:** **Desenvolvedor Back-end** (Java & Python).
+- **Estudos:** Ciência da Computação (2º Período), aplicando **OO** e Estruturas de Dados.
+- **Objetivo:** Iniciar estágio ou projetos desafiadores no stack **Java/Spring**.
+- **Proficiência:** Inglês Intermediário.
+- **Conexão:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrobrunet/)
+
+---
+
+### Tech Stack
+
+... (Aqui você insere a sua seção de Tech Stack)
 
 ---
 
