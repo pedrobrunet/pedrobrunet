@@ -5,14 +5,8 @@
 - **Estudos:** Ciência da Computação (2º Período), aplicando **OO** e Estruturas de Dados.
 - **Objetivo:** Iniciar estágio ou projetos desafiadores no stack **Java/Spring**.
 - **Proficiência:** Inglês Intermediário.
-- <br>
-**Conexão:** [ <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30"> ](https://www.linkedin.com/in/joaopedrobrunet/)
+- **Conexão:** [ <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"> ](https://www.linkedin.com/in/joaopedrobrunet/)
 
----
-
-### Tech Stack
-
-... (Aqui você insere a sua seção de Tech Stack)
 
 ---
 
