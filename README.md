@@ -1,10 +1,4 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="55" height="55" />
-
- I am Student 
-- **Foco:** **Dev Back-end**.
-- **Estudos:** Ciência da Computação (2º Período)
-- **Objetivo:** Iniciar estágio ou projetos desafiadores no stack
-- **Proficiência:** Inglês Intermediário.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="85" height="85" />
 
 - **Conexão:** <br> [ <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"> ](https://www.linkedin.com/in/joaopedrobrunet/)
 
