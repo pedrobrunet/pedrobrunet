@@ -1,7 +1,9 @@
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="85" height="85" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="65" height="65" />
 
-- **Conexão:** <br> [ <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"> ](https://www.linkedin.com/in/joaopedrobrunet/)
+---
 
+### 🔗 Conexão
+[ <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"> ](https://www.linkedin.com/in/joaopedrobrunet/)
 
 ---
 
