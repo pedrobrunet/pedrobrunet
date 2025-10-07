@@ -8,15 +8,17 @@
 
 ---
 
-### Minhas Habilidades e Ferramentas
+### 🛠️ Tech Stack
 
-Aqui estão as principais tecnologias e ferramentas com as quais eu estudo e desenvolvo.
+#### Linguagens
+<img src="https://skillicons.dev/icons?i=java,py,js" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,linux,py,spring,flask" />
-  </a>
-</p>
+#### Frameworks & Bibliotecas
+<img src="https://skillicons.dev/icons?i=spring,flask" />
+
+#### Ferramentas & Ambiente
+<img src="https://skillicons.dev/icons?i=git,linux" />
+
 
 #### Detalhe do Stack Back-end
 * **Java & Spring:** Foco na construção de **APIs REST** robustas e entendimento do **Spring IoC** (Inversion of Control) e Injeção de Dependência.
