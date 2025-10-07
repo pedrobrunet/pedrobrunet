@@ -31,5 +31,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark" alt="Gráfico de Atividade Recente" />
 </p>
 
+[![card](https://github-readme-stats.vercel.app/api?username=pedrobrunet&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
