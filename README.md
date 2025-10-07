@@ -23,13 +23,10 @@
 
 ---
 
-<p align="center">
-    <img src="https://github-readme-metrics.vercel.app/api?user=pedrobrunet&template=classic&base=activity,prs&base.style=header" alt="Métricas do GitHub de João Pedro Brunet" />
-</p>
 
 ### Gráfico de Atividade Recente
 
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark" alt="Gráfico de Atividade Recente" />
 </p>
-[![card](https://github-readme-stats.vercel.app/api?username=pedrobrunet&theme=darkt&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrobrunet&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
