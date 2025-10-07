@@ -19,24 +19,14 @@
 #### Ferramentas & Ambiente
 <img src="https://skillicons.dev/icons?i=git,linux" />
 
-
-#### Detalhe do Stack Back-end
-* **Java & Spring:** Foco na construção de **APIs REST** robustas e entendimento do **Spring IoC** (Inversion of Control) e Injeção de Dependência.
-* **Python & Flask:** Utilização para prototipagem rápida, criação de microsserviços leves e scripts de automação.
-* **Git & Linux:** Experiência prática com controle de versão distribuído e ambiente de desenvolvimento Linux/WSL.
-
 ---
 
-### 📈 Estatísticas e Contribuições
+<p align="center">
+    <img src="https://github-readme-metrics.vercel.app/api?user=pedrobrunet&template=classic&base=activity,prs&base.style=header" alt="Métricas do GitHub de João Pedro Brunet" />
+</p>
 
-Este gráfico ilustra minha atividade nos últimos 12 meses, incluindo commits e pull requests, demonstrando minha consistência no GitHub.
+### Gráfico de Atividade Recente
 
-![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark)
-
----
-
-### 🌐 Linguagens Mais Usadas
-
-Reflete o foco principal nos meus repositórios ativos, geralmente projetos acadêmicos e pessoais.
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobrunet&layout=compact&theme=dark)
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark" alt="Gráfico de Atividade Recente" />
+</p>
