@@ -32,3 +32,4 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrobrunet&theme=react-dark" alt="Gráfico de Atividade Recente" />
 </p>
+[![card](https://github-readme-stats.vercel.app/api?username=pedrobrunet&theme=darkt&show_icons=true)](https://github.com/pedrobrunet/github-readme-stats)
