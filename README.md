@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="55" height="55" />
 
-- **Foco:** **Desenvolvedor Back-end** (Java & Python).
-- **Estudos:** Ciência da Computação (2º Período), aplicando **OO** e Estruturas de Dados.
-- **Objetivo:** Iniciar estágio ou projetos desafiadores no stack **Java/Spring**.
+- **Foco:** **Desenvolvedor Back-end**.
+- **Estudos:** Ciência da Computação (2º Período)
+- **Objetivo:** Iniciar estágio ou projetos desafiadores no stack
 - **Proficiência:** Inglês Intermediário.
 - **Conexão:** <br> [ <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"> ](https://www.linkedin.com/in/joaopedrobrunet/)
 
