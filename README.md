@@ -1,6 +1,6 @@
 ### Olá! Sou João Pedro Brunet 👋
 
-- 👨‍💻 **Desenvolvedor Back-end Júnior** focado em **Java** e **Python**.
+- 👨‍💻 **Desenvolvedor focado em **Java** e **Python**.
 - 💡 Aplicando ativamente conceitos de **Orientação a Objetos (OO)** e **Estruturas de Dados** adquiridos na Ciência da Computação (2º Período).
 - 🎯 Buscando meu primeiro estágio ou projetos desafiadores para aplicar o stack **Java/Spring** em sistemas reais e escaláveis.
 - 🌐 Inglês Intermediário para documentação técnica.
