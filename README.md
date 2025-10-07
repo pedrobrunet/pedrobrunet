@@ -1,5 +1,4 @@
-###👋
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="55" height="55" />
 
 - **Foco:** **Desenvolvedor Back-end** (Java & Python).
 - **Estudos:** Ciência da Computação (2º Período), aplicando **OO** e Estruturas de Dados.
