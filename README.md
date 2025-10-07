@@ -25,10 +25,7 @@
 
 ### 📊 Estatísticas e Atividade no GitHub
 
-#### Card de Estatísticas
-<p align="center">
-    [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrobrunet&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 #### Gráfico de Contribuições Recentes
 <p align="center">
