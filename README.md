@@ -24,7 +24,7 @@
   "name": "João Pedro Brunet",
   "title": "Computer Science Student",
   "focus": ["Java", "Spring Framework", "Scalable Systems"],
-  "currently": "2nd Period at UNIESP",
+  "currently": "3nd Period at UNIESP",
   "hobbies": "Jiu-Jitsu & Git Workflow"
 }
 ```
