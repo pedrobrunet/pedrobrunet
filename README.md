@@ -38,7 +38,7 @@
 🛠️ Tech Stack
 Languages
 
-<img src="https://skillicons.dev/icons?i=java,py,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,py,js,html,css,.net" />
 Frameworks & Libraries
 
 <img src="https://skillicons.dev/icons?i=spring,flask," />
@@ -46,7 +46,7 @@ Frameworks & Libraries
 ### 🛠️ Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,windows,claude" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,windows," />
 </p>
 
 ### 📊 Estatísticas e Atividade
