@@ -46,7 +46,7 @@ Frameworks & Libraries
 ### 🛠️ Tools & Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,windows,claude" />
 </p>
 
 ### 📊 Estatísticas e Atividade
