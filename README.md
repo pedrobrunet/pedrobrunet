@@ -15,7 +15,7 @@
 
 🧑‍💻 Full Stack Developer Intern at an EdTech company. 3rd semester of Computer Science.
 
-💻 Software Engineering — Full Stack;
+💻 Software Engineering Full Stack
 
 🎓 Studying Computer Science
 
