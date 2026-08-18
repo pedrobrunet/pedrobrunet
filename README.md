@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=João%20Pedro%20Brunet&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20Developer&descAlignY=65&descColor=ffffff&animation=fadeIn" alt="Header banner" />
-</p>
-
 # 👋 Hi, I'm João Pedro Brunet
 
 🔗 **Connect:**
@@ -12,13 +8,9 @@
 </p>
 
 ---
-
-🧑‍💻 Full Stack Developer Intern at an EdTech company. 3rd semester of Computer Science.
-
-💻 Software Engineering Full Stack
-
-🎓 Studying Computer Science
-
+Full Stack Developer Intern at an EdTech company. 3rd semester of Computer Science.
+Software Engineering Full Stack
+Studying Computer Science
 ---
 
 ### 🛠 Skills
