@@ -16,18 +16,6 @@ The company's EdTech platform: question bank app for students, website and admin
 **OuseFlow CRM** — *sole developer*
 I'm the only developer on Ouse Passar's sales CRM, from database to interface. Leads come in through WhatsApp and Instagram and sellers handle them in a kanban funnel.
 
-**Ouse Atlas**
-AI that reads an exam notice (*edital*) and builds a personalized study track and schedule for each student.
-
-**Ouse Access**
-Encrypted credential vault for the whole company, with access audit and password history.
-
-**Sales Script AI**
-Sales playbook with AI tools that help the sales team handle objections and train with simulations.
-
-**Back-office RPA**
-Automation that replaced a manual enrollment process in the admin panel.
-
 ---
 
 ### Languages
