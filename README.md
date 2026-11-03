@@ -1,59 +1,39 @@
 ## João Pedro Brunet
 
-**Developer at Ouse Passar** — an EdTech that prepares students for Brazil's public-service exams.
-I work on the platform students study on every day, and on the systems the company runs behind it.
+Developer at **Ouse Passar**, an EdTech that prepares students for Brazil's public-service exams.
+I work on the platform students study on every day and on the internal systems the company runs on.
+Computer Science student at UNIESP and Java / OOP teaching assistant.
 
 João Pessoa, Brazil · [LinkedIn](https://www.linkedin.com/in/joaopedrobrunet/)
 
 ---
 
-### Ouse Passar — the platform
+### Projects I work on
 
-A TypeScript monorepo that holds the whole student-facing product:
+**Ouse Passar Platform**
+The company's EdTech platform: question bank app for students, website and admin panel, questions API and AI features.
 
-```mermaid
-flowchart LR
-    S([Student]) --> Q[Question bank PWA]
-    S --> W[Website + admin panel]
-    Q --> API[Questions REST API<br/>ASP.NET Core 9]
-    Q --> AI[AI agents<br/>Mastra]
-    W --> API
-    API --> DB[(PostgreSQL)]
-    AT[Ouse Atlas<br/>edital → study plan] --> API
-```
+**OuseFlow CRM** — *sole developer*
+I'm the only developer on Ouse Passar's sales CRM, from database to interface. Leads come in through WhatsApp and Instagram and sellers handle them in a kanban funnel.
 
-- **Question bank PWA** — where students practice exam questions, installable on mobile.
-- **Website + admin panel** — public site and the internal panel that manages content and students.
-- **AI agents** — orchestration layer for the platform's AI features.
-- **Ouse Atlas** — AI agent that reads an exam notice (*edital*) and builds a study track and a day-by-day schedule with linked questions, adapting to each student's performance. `FastAPI` `Claude API` `pgvector`
+**Ouse Atlas**
+AI that reads an exam notice (*edital*) and builds a personalized study track and schedule for each student.
 
-`TypeScript` `React` `Node.js` `ASP.NET Core` `PostgreSQL`
+**Ouse Access**
+Encrypted credential vault for the whole company, with access audit and password history.
+
+**Sales Script AI**
+Sales playbook with AI tools that help the sales team handle objections and train with simulations.
+
+**Back-office RPA**
+Automation that replaced a manual enrollment process in the admin panel.
 
 ---
 
-### OuseFlow CRM — sole developer
+### Languages
 
-I'm the **only developer** on Ouse Passar's sales CRM, from database to UI.
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,html,css" />
 
-Leads reach the company through WhatsApp and Instagram; sellers answer those conversations inside a kanban funnel.
-The CRM stores which exam each lead is aiming for, so when a new exam is announced the team can reactivate
-people who said "not now" months earlier.
+### Frameworks & tools
 
-- Migrated the whole system off Supabase to our own stack: Postgres with Row Level Security, auth (bcrypt + JWT), signed-URL file storage and transactional email.
-- WhatsApp integration through a separate Node service (Baileys).
-
-`Python` `FastAPI` `PostgreSQL` `Next.js 15` `TypeScript` `Docker`
-
----
-
-### Also built at Ouse Passar
-
-| | |
-|---|---|
-| **Ouse Access** | Credential vault for the whole company — AES-256-GCM encryption, view audit trail, password rotation history. |
-| **Sales Script AI** | Sales playbook with AI objection handling and a role-play trainer that scores sellers. |
-| **Back-office RPA** | Desktop automation that replaced a manual student-enrollment flow in the admin panel. |
-
----
-
-<sub>Computer Science at UNIESP · Java / OOP teaching assistant · Company repositories are private — happy to walk through the architecture in a call.</sub>
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,nodejs,spring,dotnet,tailwind,postgres,supabase,docker,git,github,linux,vercel,vscode,idea" />
